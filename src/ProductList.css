@@ -1,0 +1,13 @@
+.card {
+    background-color: #d4b45e !important;
+    color: #404041;
+    width: 39rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    width: 50%;
+    padding: 18px;
+}

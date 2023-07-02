@@ -1,0 +1,13 @@
+.create {
+    background-color: #404041;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.create input {
+    background-color: #d4b45e !important;
+}
+
+.create textarea {
+    background-color: #d4b45e !important;
+}
